@@ -4,7 +4,7 @@ Download image from S3, save a copy as jpg and generate a thumbnail.
 
 ## Steps
 
-$ ruby s3_compress "file_path_on_s3"
+$ ruby s3_compress "file_path_on_s3" 50
 
 file_path_on_s3 example: uploads/items/1.png
 
